@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+Add PR Summary step to Ultralytics Actions (#7675)
