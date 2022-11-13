@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+Add Amazon Sagemaker Docs integrations page (#7293)
