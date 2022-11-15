@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
