@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
