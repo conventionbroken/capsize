@@ -1,1 +1,1 @@
-Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
+ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
