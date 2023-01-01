@@ -1,1 +1,1 @@
-Update README.md
+Explorer with LanceDB, Actions and Docs updates (#7487)
