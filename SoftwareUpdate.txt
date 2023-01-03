@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
