@@ -1,1 +1,1 @@
-Embed videos in Docs pages using Parent pages for relevant segments (#6877)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
