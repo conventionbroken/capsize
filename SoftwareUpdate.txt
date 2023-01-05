@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Update HTTP to HTTPS (#7548)
