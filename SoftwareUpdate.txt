@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Add HUB-SDK docs (#7775)
