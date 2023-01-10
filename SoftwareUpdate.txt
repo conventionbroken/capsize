@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+OpenVino 2024.0.0 (#8726)
