@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Fix Neural Magic links (#9144)
