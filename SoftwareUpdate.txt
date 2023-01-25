@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+New HUB Cloud Training docs page (#8174)
