@@ -1,1 +1,1 @@
-Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
+ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
