@@ -1,1 +1,1 @@
-ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
