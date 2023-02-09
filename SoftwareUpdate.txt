@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Compare plt.get_backend() in lowercase (#8409)
