@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Replacing Images for torchscript.md (#8596)
