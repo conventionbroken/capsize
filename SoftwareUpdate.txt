@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+Add new YOLOv8 OBB model metrics (#7379)
