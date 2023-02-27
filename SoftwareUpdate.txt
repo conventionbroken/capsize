@@ -1,1 +1,1 @@
-Add OpenVINO Latency vs Throughput modes Docs page (#9001)
+ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
