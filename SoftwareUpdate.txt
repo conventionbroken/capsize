@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
