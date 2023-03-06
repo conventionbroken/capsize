@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
