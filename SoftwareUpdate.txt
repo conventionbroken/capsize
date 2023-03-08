@@ -1,1 +1,1 @@
-ultralytics 8.0.233 improve Classify train augmentations (#4546)
+Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
