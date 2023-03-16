@@ -1,1 +1,1 @@
-Move Google Drive to slow tests (#8163)
+Add estimate_speed(region_color) parameter (#8285)
