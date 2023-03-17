@@ -1,1 +1,1 @@
-fix predict with class filter
+Add YouTube iframe loading=lazy (#8001)
