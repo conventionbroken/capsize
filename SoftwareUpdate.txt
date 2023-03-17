@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
