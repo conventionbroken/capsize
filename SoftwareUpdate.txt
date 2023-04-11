@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Fix OpenVINO links (#7930)
