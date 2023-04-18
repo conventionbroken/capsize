@@ -1,1 +1,1 @@
-Update format.yml to pull_request_target (#7460)
+Fix PNNX ubuntu -> linux bug (#7050)
