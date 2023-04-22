@@ -1,1 +1,1 @@
-fix predict with class filter
+Bounding Box to OBB conversion (#7572)
