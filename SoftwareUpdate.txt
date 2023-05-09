@@ -1,1 +1,1 @@
-Move Google Drive to slow tests (#8163)
+Updated SQL Query Plot Code (#8120)
