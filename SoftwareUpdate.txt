@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Clarify triton server boolean value (#8532)
