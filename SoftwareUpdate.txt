@@ -1,1 +1,1 @@
-update
+Add bgr hyperparameter (#9139)
