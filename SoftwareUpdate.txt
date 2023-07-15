@@ -1,1 +1,1 @@
-ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
