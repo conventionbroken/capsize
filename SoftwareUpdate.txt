@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Add PR Summary step to Ultralytics Actions (#7675)
