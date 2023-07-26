@@ -1,1 +1,1 @@
-Add https://youtu.be/uDrn9QZJ2lk and object_counting.py, ai_gym.py updates (#9265)
+fix for predicting with batch_size > 1 (#47)
