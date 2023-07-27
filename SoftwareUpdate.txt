@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Add C++ Classify inference example (#6868)
