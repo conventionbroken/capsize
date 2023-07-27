@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Add NCNN Docs Integrations Page (#8562)
