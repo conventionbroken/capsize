@@ -1,1 +1,1 @@
-Explorer API video https://youtu.be/3VryynorQeo  (#7838)
+ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
