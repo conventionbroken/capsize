@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
