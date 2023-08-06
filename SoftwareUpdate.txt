@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Compare plt.get_backend() in lowercase (#8409)
