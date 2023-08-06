@@ -1,1 +1,1 @@
-Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
+ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
