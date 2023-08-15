@@ -1,1 +1,1 @@
-ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
