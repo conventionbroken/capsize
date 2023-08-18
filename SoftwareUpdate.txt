@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Update README.md
