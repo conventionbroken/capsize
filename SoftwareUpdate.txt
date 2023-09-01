@@ -1,1 +1,1 @@
-fix predict with class filter
+Fixed RTDETR GFLOPs bug (#7309)
