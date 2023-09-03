@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Feature: Create HUB Models from CLI or Python Script (#7316)
