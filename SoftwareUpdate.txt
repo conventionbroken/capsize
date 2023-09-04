@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+Move Explorer tests to scheduled CI (#8305)
