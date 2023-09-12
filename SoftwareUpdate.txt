@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
