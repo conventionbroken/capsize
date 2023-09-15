@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Avoid creating -hub dir without processing images (#8334)
