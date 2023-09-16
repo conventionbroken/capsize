@@ -1,1 +1,1 @@
-ultralytics 8.1.2 scope HUB-SDK imports (#7596)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
