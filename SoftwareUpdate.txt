@@ -1,1 +1,1 @@
-Explorer Cleanup (#7364)
+Expand Model method type hinting (#8279)
