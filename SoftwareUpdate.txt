@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+ultralytics 8.0.229 add model.embed() method (#7098)
