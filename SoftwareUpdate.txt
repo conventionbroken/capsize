@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+docs: update view-results-in-terminal.md (#66)
