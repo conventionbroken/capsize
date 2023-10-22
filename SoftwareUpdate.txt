@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Merge pull request #22 from SkalskiP/patch-1
