@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+Add new YOLOv8 OBB model metrics (#7379)
