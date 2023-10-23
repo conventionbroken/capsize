@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Explorer with LanceDB, Actions and Docs updates (#7487)
