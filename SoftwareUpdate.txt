@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+Batch inference fixes (#8854)
