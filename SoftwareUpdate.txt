@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
