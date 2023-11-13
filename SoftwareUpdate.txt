@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Expand Model method type hinting (#8279)
