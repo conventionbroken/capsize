@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
