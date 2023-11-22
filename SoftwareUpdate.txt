@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
