@@ -1,1 +1,1 @@
-Fix an issue with flatbuffer version for Raspberry Pi (#8311)
+Fix tfjs exports for ARM64 Dockerfile (#8766)
