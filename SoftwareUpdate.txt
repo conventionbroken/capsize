@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Add docstrings to new HUB functions (#7576)
