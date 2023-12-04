@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Add distance calculation feature in vision-eye (#8616)
