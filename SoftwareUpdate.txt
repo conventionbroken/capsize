@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
