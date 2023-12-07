@@ -1,1 +1,1 @@
-RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
+Explorer with LanceDB, Actions and Docs updates (#7487)
