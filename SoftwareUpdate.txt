@@ -1,1 +1,1 @@
-Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
+Updating a typo on paddlepaddle.md (#9108)
