@@ -1,1 +1,1 @@
-ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
+Elaborate Train and Predict mode docs arguments (#8137)
