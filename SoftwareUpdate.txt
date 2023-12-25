@@ -1,1 +1,1 @@
-ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
