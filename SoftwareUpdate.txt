@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Fix xyxyxyxyn calculation in obb result (#8188)
