@@ -1,1 +1,1 @@
-Disable Tab Limit - Disables the default tab limit (varies giữa devices)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
