@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Add integrations/gradio Docs page (#7935)
