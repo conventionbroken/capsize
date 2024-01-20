@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Add docs guide terminal images (#8819)
