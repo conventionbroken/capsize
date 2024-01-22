@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Update Roboflow segmentation Docs pages (#8094)
