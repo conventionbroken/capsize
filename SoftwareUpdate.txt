@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Fix Multi-GPU resume bug (#7328)
