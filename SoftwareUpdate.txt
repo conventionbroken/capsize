@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
