@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
