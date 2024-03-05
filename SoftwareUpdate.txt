@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
