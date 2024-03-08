@@ -1,1 +1,1 @@
-Fixed dataloader CPU bottleneck for small batch sizes (#7659)
+Fix docker.yaml double-quote version bug (#7452)
