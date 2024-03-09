@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+fix predict with class filter
