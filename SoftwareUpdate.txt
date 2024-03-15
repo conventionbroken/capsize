@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
