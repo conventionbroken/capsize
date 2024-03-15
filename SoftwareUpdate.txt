@@ -1,1 +1,1 @@
-Fix names bug when exporting YOLOv8-World to ONNX (#8941)
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
