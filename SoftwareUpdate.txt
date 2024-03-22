@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+Update Colab notebook for YOLOv8.1 (#8660)
