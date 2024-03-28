@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
