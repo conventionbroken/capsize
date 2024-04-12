@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
