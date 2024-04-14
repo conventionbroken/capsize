@@ -1,1 +1,1 @@
-Add KaTeX support + updates to YOLOv9 model page (#8531)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
