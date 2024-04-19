@@ -1,1 +1,1 @@
-Add HUB-SDK Docs reference section (#7781)
+Add dota8.yaml and O tests (#7394)
