@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Add TensorBoard Docs integrations page (#7248)
