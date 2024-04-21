@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Explorer with LanceDB, Actions and Docs updates (#7487)
