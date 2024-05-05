@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Fix OpenVINO missing batch-size bug (#9264)
