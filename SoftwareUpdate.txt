@@ -1,1 +1,1 @@
-ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
